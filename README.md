@@ -11,4 +11,4 @@ Built using [Next.js 12](https://next.js.org), [Tailwind CSS](https://tailwindcs
 - Tailwind
 - lodash
 
-## check out my side at [kellenbolger.ca](https://kellenbolger.ca)
+### check out my site at [kellenbolger.ca](https://kellenbolger.ca)
